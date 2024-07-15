@@ -32,6 +32,11 @@ The application has two RESTful endpoints which has the responsibility to upload
 * This application are responsible to upload CSV files on S3. So no database is involved in it.
 ---
 
+#### Postman Collection and Environment
+
+* [Collection](https://orolia-prisma-c2.postman.co/workspace/My-Workspace~b1291353-acc3-401d-8485-d1bce8eb51b0/collection/2914555-74a39893-53fb-4cf2-b405-d02a0854b9bb?action=share&creator=2914555&active-environment=2914555-12d97412-c34a-4997-98a7-850dd6a56c42)
+* [Environment](https://orolia-prisma-c2.postman.co/workspace/My-Workspace~b1291353-acc3-401d-8485-d1bce8eb51b0/environment/2914555-12d97412-c34a-4997-98a7-850dd6a56c42?action=share&creator=2914555&active-environment=2914555-12d97412-c34a-4997-98a7-850dd6a56c42)
+
 #### API - /api/v1/upload-full-csv
 * It is RESTful endpoint with __POST__ method as shown on postman collection. 
 * Endpoint has only one parameter which take file as an input.
